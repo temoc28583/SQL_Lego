@@ -1,0 +1,1 @@
+select name, year, num_parts from "sets" s order by num_parts desc limit 10;
