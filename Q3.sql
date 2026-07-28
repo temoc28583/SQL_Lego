@@ -1,0 +1,1 @@
+select m.fig_num , name, num_parts from minifigs m order by num_parts desc limit 10;
